@@ -69,7 +69,7 @@
     }
 
     _event = document.createEvent('HTMLEvents');
-    _event.iniEvent('k.tap', true, true);
+    _event.initEvent('k.tap', true, true);
 
     _event.pageX = pageX;
     _event.pageY = pageY;
