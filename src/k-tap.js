@@ -68,7 +68,7 @@
       pageY = touch.pageY;
     }
 
-    _event = new Event('k.tap', {
+    _event = document.createEvent('k.tap', {
       bubbles: true  
     });
 
