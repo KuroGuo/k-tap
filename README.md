@@ -1,6 +1,6 @@
 ## K-tap
 
-### Quick Examples
+### Quick Example
 
 ```html
 <div id="box"></div>
